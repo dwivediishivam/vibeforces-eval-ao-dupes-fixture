@@ -1,0 +1,182 @@
+[
+  {
+    "issue_id": "NEW-001",
+    "title": "[paraphrase of EXISTING-001]",
+    "body": "Same problem as before, different wording. (EXISTING-001)",
+    "_gold_duplicate_of": "EXISTING-001"
+  },
+  {
+    "issue_id": "NEW-002",
+    "title": "[paraphrase of EXISTING-008]",
+    "body": "Same problem as before, different wording. (EXISTING-008)",
+    "_gold_duplicate_of": "EXISTING-008"
+  },
+  {
+    "issue_id": "NEW-003",
+    "title": "[paraphrase of EXISTING-015]",
+    "body": "Same problem as before, different wording. (EXISTING-015)",
+    "_gold_duplicate_of": "EXISTING-015"
+  },
+  {
+    "issue_id": "NEW-004",
+    "title": "[paraphrase of EXISTING-022]",
+    "body": "Same problem as before, different wording. (EXISTING-022)",
+    "_gold_duplicate_of": "EXISTING-022"
+  },
+  {
+    "issue_id": "NEW-005",
+    "title": "[paraphrase of EXISTING-029]",
+    "body": "Same problem as before, different wording. (EXISTING-029)",
+    "_gold_duplicate_of": "EXISTING-029"
+  },
+  {
+    "issue_id": "NEW-006",
+    "title": "[paraphrase of EXISTING-036]",
+    "body": "Same problem as before, different wording. (EXISTING-036)",
+    "_gold_duplicate_of": "EXISTING-036"
+  },
+  {
+    "issue_id": "NEW-007",
+    "title": "[paraphrase of EXISTING-043]",
+    "body": "Same problem as before, different wording. (EXISTING-043)",
+    "_gold_duplicate_of": "EXISTING-043"
+  },
+  {
+    "issue_id": "NEW-008",
+    "title": "[paraphrase of EXISTING-050]",
+    "body": "Same problem as before, different wording. (EXISTING-050)",
+    "_gold_duplicate_of": "EXISTING-050"
+  },
+  {
+    "issue_id": "NEW-009",
+    "title": "[paraphrase of EXISTING-057]",
+    "body": "Same problem as before, different wording. (EXISTING-057)",
+    "_gold_duplicate_of": "EXISTING-057"
+  },
+  {
+    "issue_id": "NEW-010",
+    "title": "[paraphrase of EXISTING-064]",
+    "body": "Same problem as before, different wording. (EXISTING-064)",
+    "_gold_duplicate_of": "EXISTING-064"
+  },
+  {
+    "issue_id": "NEW-011",
+    "title": "[paraphrase of EXISTING-071]",
+    "body": "Same problem as before, different wording. (EXISTING-071)",
+    "_gold_duplicate_of": "EXISTING-071"
+  },
+  {
+    "issue_id": "NEW-012",
+    "title": "[paraphrase of EXISTING-078]",
+    "body": "Same problem as before, different wording. (EXISTING-078)",
+    "_gold_duplicate_of": "EXISTING-078"
+  },
+  {
+    "issue_id": "NEW-013",
+    "title": "Genuinely new issue 13",
+    "body": "No prior match.",
+    "_gold_duplicate_of": null
+  },
+  {
+    "issue_id": "NEW-014",
+    "title": "Genuinely new issue 14",
+    "body": "No prior match.",
+    "_gold_duplicate_of": null
+  },
+  {
+    "issue_id": "NEW-015",
+    "title": "Genuinely new issue 15",
+    "body": "No prior match.",
+    "_gold_duplicate_of": null
+  },
+  {
+    "issue_id": "NEW-016",
+    "title": "Genuinely new issue 16",
+    "body": "No prior match.",
+    "_gold_duplicate_of": null
+  },
+  {
+    "issue_id": "NEW-017",
+    "title": "Genuinely new issue 17",
+    "body": "No prior match.",
+    "_gold_duplicate_of": null
+  },
+  {
+    "issue_id": "NEW-018",
+    "title": "Genuinely new issue 18",
+    "body": "No prior match.",
+    "_gold_duplicate_of": null
+  },
+  {
+    "issue_id": "NEW-019",
+    "title": "Genuinely new issue 19",
+    "body": "No prior match.",
+    "_gold_duplicate_of": null
+  },
+  {
+    "issue_id": "NEW-020",
+    "title": "Genuinely new issue 20",
+    "body": "No prior match.",
+    "_gold_duplicate_of": null
+  },
+  {
+    "issue_id": "NEW-021",
+    "title": "Genuinely new issue 21",
+    "body": "No prior match.",
+    "_gold_duplicate_of": null
+  },
+  {
+    "issue_id": "NEW-022",
+    "title": "Genuinely new issue 22",
+    "body": "No prior match.",
+    "_gold_duplicate_of": null
+  },
+  {
+    "issue_id": "NEW-023",
+    "title": "Genuinely new issue 23",
+    "body": "No prior match.",
+    "_gold_duplicate_of": null
+  },
+  {
+    "issue_id": "NEW-024",
+    "title": "Genuinely new issue 24",
+    "body": "No prior match.",
+    "_gold_duplicate_of": null
+  },
+  {
+    "issue_id": "NEW-025",
+    "title": "Genuinely new issue 25",
+    "body": "No prior match.",
+    "_gold_duplicate_of": null
+  },
+  {
+    "issue_id": "NEW-026",
+    "title": "Genuinely new issue 26",
+    "body": "No prior match.",
+    "_gold_duplicate_of": null
+  },
+  {
+    "issue_id": "NEW-027",
+    "title": "Genuinely new issue 27",
+    "body": "No prior match.",
+    "_gold_duplicate_of": null
+  },
+  {
+    "issue_id": "NEW-028",
+    "title": "Genuinely new issue 28",
+    "body": "No prior match.",
+    "_gold_duplicate_of": null
+  },
+  {
+    "issue_id": "NEW-029",
+    "title": "Genuinely new issue 29",
+    "body": "No prior match.",
+    "_gold_duplicate_of": null
+  },
+  {
+    "issue_id": "NEW-030",
+    "title": "Genuinely new issue 30",
+    "body": "No prior match.",
+    "_gold_duplicate_of": null
+  }
+]
